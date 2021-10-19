@@ -34,6 +34,6 @@ The analysis should contain the following:
 
   ![Pyber_summary_dataframe](analysis/Pyber_summary_dataframe.PNG)
 
-    As seen from the above data frame the average fare in Rural communities is roughly four times higher than Urban, the total drivers in Urban is 3% of what we have in Urban
-    The other area we should focus on is the density map, how many people live in a particular city type and how many of those own a car
-    Lastly we also need to have a mechanism in place where we can look at profits
+    As seen from the above data frame the average fare in Rural communities is roughly four times higher than Urban, the total drivers in Urban is 3% of what we have in Urban.
+    The other area we should focus on is the density map, how many people live in a particular city type and how many of those own a car. 
+    Lastly, we also need to have a mechanism in place where we can look at profits

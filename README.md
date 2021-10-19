@@ -23,7 +23,7 @@ The analysis should contain the following:
 
   As they say a picture is worth a thousand words, the picture below shows total fare for each city type.  As expected there's a higher fare aggregate in Urban followed by Suburban and Rural communities
 
-  ![PyBer_fare_summary](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\PyBer_Analysis\analysis\PyBer_fare_summary.png)
+  ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
   *** As the graph depicts the data is filtered on four months(2019-01-01 to 2019-04-29)*
 
@@ -33,7 +33,7 @@ The analysis should contain the following:
 
   The multiple-line chart talks about part of the storyline i.e. fare aggregate by city type. There's another side of the analysis which goes in the details of average cost of the ride: 
 
-![Pyber_summary_dataframe](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\PyBer_Analysis\analysis\Pyber_summary_dataframe.PNG)
+![Pyber_summary_dataframe](analysis/Pyber_summary_dataframe.PNG)
 
 ​		As seen from the above data frame the average fare in Rural communities is roughly four times higher than Urban, the total drivers in Urban is 3% of what we have in Urban
 

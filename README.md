@@ -33,7 +33,7 @@ The analysis should contain the following:
 
   The multiple-line chart talks about part of the storyline i.e. fare aggregate by city type. There's another side of the analysis which goes in the details of average cost of the ride: 
 
-![Pyber_summary_dataframe](analysis/Pyber_summary_dataframe.PNG)
+  ![Pyber_summary_dataframe](analysis/Pyber_summary_dataframe.PNG)
 
 ​		As seen from the above data frame the average fare in Rural communities is roughly four times higher than Urban, the total drivers in Urban is 3% of what we have in Urban
 
